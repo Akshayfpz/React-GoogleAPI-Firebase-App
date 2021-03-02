@@ -7,13 +7,13 @@ importScripts('https://www.gstatic.com/firebasejs/5.5.0/firebase-messaging.js');
 // Initialize the Firebase app in the service worker by passing in the
 // messagingSenderId.
 const firebaseConfig = {
-apiKey: "AIzaSyBgxl_OAn5SHDyRD4ijn6aKAIkHNmQBh78",
-authDomain: "angular-fc747.firebaseapp.com",
-databaseURL: "https://angular-fc747.firebaseio.com",
-projectId: "angular-fc747",
-storageBucket: "angular-fc747.appspot.com",
-messagingSenderId: "299138396800",
-appId: "1:299138396800:web:c0c9ea30919d4f50"
+apiKey: "xxx",
+authDomain: "xxxx",
+databaseURL: "xxxx",
+projectId: "xxxx",
+storageBucket: "xxxx",
+messagingSenderId: "xxxx",
+appId: "xxxxx"
 }
 
 firebase.initializeApp(firebaseConfig);
