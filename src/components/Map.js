@@ -295,6 +295,7 @@ class Map extends Component{
 								marginTop: '2px',
 								marginBottom: '100px'
 							}}
+							defaultValue={this.state.address}
 							onPlaceSelected={ this.onPlaceSelected }
 							types={[]}
 						/>
